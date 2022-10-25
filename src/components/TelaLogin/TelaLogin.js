@@ -1,4 +1,6 @@
+import React from "react";
 import { Form, FormContainer, Input, SendButton, StyledLabel, RegisterButton } from "./styled";
+
 
 function TelaLogin(props) {
 
