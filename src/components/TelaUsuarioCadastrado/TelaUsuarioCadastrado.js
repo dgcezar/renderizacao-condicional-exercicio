@@ -1,4 +1,5 @@
 import { Div, Titulo } from "./styled";
+import React from "react";
 
 function TelaUsuarioCadastrado (){
     return (
